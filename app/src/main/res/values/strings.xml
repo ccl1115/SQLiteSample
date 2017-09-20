@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteSample</string>
+    <string name="insert_large_data">Insert large data</string>
+    <string name="insert_small_data">Insert small data</string>
+    <string name="in_different_process">In different process</string>
+    <string name="in_different_thread">In different thread</string>
+    <string name="concurrent_insert">Concurrent insert</string>
+    <string name="query_closed_database">Query closed database</string>
+    <string name="close_database">Close database</string>
+    <string name="query">Query</string>
+</resources>
